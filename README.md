@@ -156,7 +156,7 @@ UsedCarPrediction2026/
 
 **Keith Tang**  
 Quantitative Analyst | Sydney, Australia  
-[LinkedIn](https://linkedin.com/in/keithtang) · [GitHub](https://github.com/keithtang2025)
+[LinkedIn](https://linkedin.com/in/keithtang) · [GitHub](https://github.com/keithtang2025/UsedCarPrediction2026)
 
 ---
 
